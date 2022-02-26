@@ -18,6 +18,8 @@
             </v-content>
         </v-container>
 
+        <div class="mb-9 bottom_banner" style="height:300px; background-image:url(./img/bottom_banner.jpg); background-size:cover; background-position:50% 50%; "></div>
+
 
     </div>
 
